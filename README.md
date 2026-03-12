@@ -1,4 +1,9 @@
 # latihan_kuiz
+Nama : Nabil Aqila Putra
+
+NIM : 123230085
+
+Kelas : Prak TPM IF-G
 
 git clone "repository"
 
