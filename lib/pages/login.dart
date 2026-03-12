@@ -41,7 +41,7 @@ class LoginPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "KANTIN VETERAN",
+          "KANTiN VETERAN",
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold
