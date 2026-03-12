@@ -121,7 +121,7 @@ class _HomePageState extends State<HomePage> {
                                 const SizedBox(height: 5),
 
                                 Text(
-                                  "Rp ${item["harga"]}",
+                                  "Rp${item["harga"]}",
                                   style: TextStyle(
                                     color: Colors.grey[700],
                                     fontSize: 14,
