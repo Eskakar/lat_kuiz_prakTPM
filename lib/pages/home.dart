@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
     {"nama": "Gado-gado", "harga": 14000, "gambar": "assets/image/gado_gado.jpg"},
   ];
 
-  void orderMenu(item) {
+  void orderMenu(Map<String,dynamic> item) {
     Navigator.push(
       context,
       MaterialPageRoute(
